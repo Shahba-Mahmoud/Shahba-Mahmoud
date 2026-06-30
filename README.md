@@ -72,7 +72,7 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgresql,sql server,mongodb" height="45"/>
 
 </p>
 
