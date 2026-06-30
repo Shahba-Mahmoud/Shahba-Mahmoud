@@ -68,17 +68,23 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 
 ---
 
-## 💾 Databases
-
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgresql,sql server,mongodb" height="45"/>
+<h2 align="left">🗄️ Database Expertise</h2>
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgresql,microsoftsqlserver,mongodb,redis" height="50"/>
 </p>
 
-* SQL     ( PostgreSQL , SQL Server )
-* NoSQL   ( MongoDB )
-* Caching ( Redis)
+### Relational Databases
+- PostgreSQL — Advanced SQL, indexing, query optimization
+- SQL Server — Data modeling, stored procedures, reporting systems
+
+### NoSQL Databases
+- MongoDB — Document-based design, scalable collections
+
+### In-Memory Databases
+- Redis — Caching, session storage, high-performance data access
 
 ---
 
