@@ -235,7 +235,7 @@ Java & Spring Boot
 
 💼 **LinkedIn:** [https://linkedin.com/in/](https://www.linkedin.com/in/mahmoud-shahba-083a16385/)
 
-🐙 **GitHub:** [https://github.com/](https://github.com/Shahba-Mahmoud/Shahba-Mahmoud)
+🐙 **GitHub:** [https://github.com/](https://github.com/Shahba-Mahmoud)
 
 </p>
 
