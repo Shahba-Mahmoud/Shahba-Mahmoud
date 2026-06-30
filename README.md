@@ -233,7 +233,7 @@ Java & Spring Boot
 
 📧 **Email:** [mahmoud.shahba.se@gmail.com](mailto:mahmoud.shahba.se@gmail.com)
 
-💼 **LinkedIn:** [https://linkedin.com/in/](https://www.linkedin.com/in/mahmoud-shahba-083a16385/)
+💼 **LinkedIn:** [LinkedIN](https://www.linkedin.com/in/mahmoud-shahba-083a16385/)
 
 🐙 **GitHub:** [https://github.com/](https://github.com/Shahba-Mahmoud)
 
