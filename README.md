@@ -2,7 +2,7 @@
 # <h1 align="center">Hi 👋, I'm Mahmoud Shahba</h1>
 
 <h3 align="center">
-Mathematician • Data Engineer • Data Analyst • Python Developer • Java Developer • DevOps Engineer
+Mathematician | Data Engineer | Data Analyst | Python Developer | Java Developer | DevOps Engineer
 </h3>
 
 <p align="center">
@@ -16,9 +16,9 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
 
 * 🎓 **Mathematician** with strong analytical and problem-solving skills.
 * 📊 Passionate about **Data Analysis**, **Data Engineering**, and **Big Data**.
-* 🐍 Python Developer specializing in Data Science and Backend Development.
+* 🐍 Python Developer specializing in Data Science and Automation.
 * ☕ Java & Spring Boot Developer.
-* ☁️ DevOps Engineer focused on automation, cloud-native applications, and CI/CD.
+* ☁️ DevOps Engineer focused on Contenerization , automation, cloud-native applications, and CI/CD.
 * 📚 Always learning modern technologies and software engineering best practices.
 
 ---
@@ -29,7 +29,7 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
 
 <p>
 Strong foundation in:
-Linear Algebra • Calculus • Statistics • Probability • Optimization • Discrete Mathematics
+Linear Algebra • Calculus • Statistics • Probability • Optimization • Discrete Mathematics • Applied Mathematics 
 </p>
 
 ---
@@ -76,10 +76,9 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 
 </p>
 
-* SQL
-* MySQL
-* PostgreSQL
-* MongoDB
+* SQL     ( PostgreSQL , SQL Server )
+* NoSQL   ( MongoDB )
+* Caching ( Redis)
 
 ---
 
