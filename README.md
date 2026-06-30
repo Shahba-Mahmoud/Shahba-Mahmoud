@@ -73,12 +73,14 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 <h2 align="left">🗄️ Database Expertise</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgresql,microsoftsqlserver,mongodb,redis" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="50"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35"/>
 </p>
 
 <p align="left">
 <b>PostgreSQL</b> • Advanced SQL, indexing, performance tuning <br/>
-<b>SQL Server</b> • Stored procedures, ETL, enterprise data systems <br/>
+<b>SQL Server</b> • ETL, stored procedures, enterprise data systems <br/>
 <b>MongoDB</b> • NoSQL document modeling, scalable architectures <br/>
 <b>Redis</b> • Caching, session management, high-speed data access
 </p>
