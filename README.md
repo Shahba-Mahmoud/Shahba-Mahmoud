@@ -76,15 +76,12 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 <img src="https://skillicons.dev/icons?i=postgresql,microsoftsqlserver,mongodb,redis" height="50"/>
 </p>
 
-### Relational Databases
-- PostgreSQL — Advanced SQL, indexing, query optimization
-- SQL Server — Data modeling, stored procedures, reporting systems
-
-### NoSQL Databases
-- MongoDB — Document-based design, scalable collections
-
-### In-Memory Databases
-- Redis — Caching, session storage, high-performance data access
+<p align="left">
+<b>PostgreSQL</b> • Advanced SQL, indexing, performance tuning <br/>
+<b>SQL Server</b> • Stored procedures, ETL, enterprise data systems <br/>
+<b>MongoDB</b> • NoSQL document modeling, scalable architectures <br/>
+<b>Redis</b> • Caching, session management, high-speed data access
+</p>
 
 ---
 
