@@ -150,10 +150,10 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 
 # 📂 Featured Projects
 
-| Project                        | Industry        | Description                                                                            | Dashboard                                                                    |
-| ------------------------------ | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 📊 Data Analysis               | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   |
-| 🚗 Automotive Sales Analytics  | Automotive      | Sales, inventory, dealership, and customer performance dashboard                       | [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   |
+| Project                            | Industry        | Description                                                                            | Dashboard                                                                    |
+| ------------------------------     | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 📊 Data Analysis                   | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   |
+| 01 - 🚗 Automotive Sales Analytics | Automotive      | Sales, inventory, dealership, and customer performance dashboard                  | [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   |
 | 🛒 E-Commerce Sales Analytics  | Retail          | Sales performance, customer segmentation, product profitability, and regional analysis | [View Project](https://github.com/yourusername/Ecommerce-Sales-Analytics)    |
 | 🏥 Healthcare Analytics        | Healthcare      | Healthcare spending, life expectancy, disease trends, and hospital resource analysis   | [View Project](https://github.com/yourusername/Healthcare-Analytics)         |
 | ⚽ Player Performance Analytics | Sports          | Player statistics, team performance, match insights, and player comparison dashboard   | [View Project](https://github.com/yourusername/Player-Performance-Analytics) |
