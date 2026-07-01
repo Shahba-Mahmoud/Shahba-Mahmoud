@@ -180,8 +180,8 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 ## 🐍 Python
 
 * 🔹 **Automation Scripts**
-* 🔹 **FastAPI REST API**
-* 🔹 **Flask Backend**
+* 🔹 
+* 🔹 ** Django**
 * 🔹 **Web Scraper**
 * 🔹 **Data Processing Toolkit**
 
