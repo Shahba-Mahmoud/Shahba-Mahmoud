@@ -220,34 +220,74 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 | 05 - 📊 Pandas Analytics | Data Analysis | Data cleaning, transformation, and exploratory analysis | [View Project](https://github.com/yourusername/Pandas-Analytics) |
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+# 👨‍💻 GitHub Profile
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahba-Mahmoud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahba-Mahmoud&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 🌎 Connect with Me
+## 📈 Contribution Graph
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahba-Mahmoud&theme=github-dark&hide_border=true"/>
+</p>
 
-📧 **Email:** [mahmoud.shahba.se@gmail.com](mailto:mahmoud.shahba.se@gmail.com)
+---
 
-💼 **LinkedIn:** [LinkedIN](https://www.linkedin.com/in/mahmoud-shahba-083a16385/)
+## 🛠 Tech Stack
 
-🐙 **GitHub:** [https://github.com/](https://github.com/Shahba-Mahmoud)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,scala,sql,bash"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate"/>
+</p>
+
+### Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=spark,mysql,postgres"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
+</p>
+
+---
+
+## 📂 Portfolio
+
+- 📊 Data Analytics Projects
+- 🏗 Data Engineering Projects
+- 🤖 Data Science Projects
+- ☕ Java & Spring Boot Projects
+- ⚙️ DevOps Projects
+- 🐍 Python Projects
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** [mahmoud.shahba.se@gmail.com](mailto:mahmoud.shahba.se@gmail.com)
+- 💼 **LinkedIn:** [LinkedIN](https://www.linkedin.com/in/mahmoud-shahba-083a16385/)
+- 🐙 **GitHub:** [https://github.com/](https://github.com/Shahba-Mahmoud)
+
 
 </p>
 
