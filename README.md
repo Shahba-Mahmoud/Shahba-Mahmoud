@@ -1,5 +1,5 @@
 # Shaba Mahmoud 
-# <h1 align="center">Hi 👋, I'm Mahmoud Shahba</h1>
+# <h1 align="center">Hi 👋, I'm Shahba Mahmoud </h1>
 
 <h3 align="center">
 Mathematician | Data Engineer | Data Analyst | Python Developer | Java Developer | DevOps Engineer
@@ -146,6 +146,26 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 
 ---
 
+---
+
+# 📂 Featured Projects
+
+| Project                        | Industry        | Description                                                                            | Dashboard                                                                    |
+| ------------------------------ | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 📊 Data Analysis               | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   |
+| 🚗 Automotive Sales Analytics  | Automotive      | Sales, inventory, dealership, and customer performance dashboard                       | [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   |
+| 🛒 E-Commerce Sales Analytics  | Retail          | Sales performance, customer segmentation, product profitability, and regional analysis | [View Project](https://github.com/yourusername/Ecommerce-Sales-Analytics)    |
+| 🏥 Healthcare Analytics        | Healthcare      | Healthcare spending, life expectancy, disease trends, and hospital resource analysis   | [View Project](https://github.com/yourusername/Healthcare-Analytics)         |
+| ⚽ Player Performance Analytics | Sports          | Player statistics, team performance, match insights, and player comparison dashboard   | [View Project](https://github.com/yourusername/Player-Performance-Analytics) |
+| 👨‍💼 HR Employee Analytics    | Human Resources | Employee performance, attrition, salary, and workforce insights                        | [View Project](https://github.com/yourusername/HR-Analytics)                 |
+| 💳 Banking Analytics           | Finance         | Customer accounts, loans, transactions, and financial performance dashboard            | [View Project](https://github.com/yourusername/Banking-Analytics)            |
+| 🏠 Real Estate Analytics       | Real Estate     | Property prices, sales trends, locations, and investment insights                      | [View Project](https://github.com/yourusername/Real-Estate-Analytics)        |
+| ✈️ Airline Analytics           | Aviation        | Flight delays, passenger traffic, revenue, and operational performance                 | [View Project](https://github.com/yourusername/Airline-Analytics)            |
+| 🎬 Movie Industry Analytics    | Entertainment   | Movie revenue, ratings, genres, and production company performance                     | [View Project](https://github.com/yourusername/Movie-Analytics)              |
+| 📦 Supply Chain Analytics      | Logistics       | Inventory management, supplier performance, shipping, and warehouse analytics          | [View Project](https://github.com/yourusername/Supply-Chain-Analytics)       |
+
+
+---
 # 🚀 Featured Projects
 
 ## 📊 Data Analysis
