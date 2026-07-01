@@ -145,16 +145,16 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 * Infrastructure as Code (IaC)
 
 ---
-<!-- This is a comment 
+
 # 🚀 Featured Projects
 
 ## 📊 Data Analysis
 
-* 🔹 **Netflix Data Analysis**
-* 🔹 **Titanic Survival Analysis**
-* 🔹 **Customer Churn Analysis**
-* 🔹 **Sales Dashboard**
-* 🔹 **Exploratory Data Analysis Projects**
+* 🔹 **E-Commerce Analytic**
+* 🔹 
+* 🔹 
+* 🔹 
+* 🔹 
 
 ---
 
@@ -206,7 +206,7 @@ Java & Spring Boot
 * 🔹 **Terraform Infrastructure**
 * 🔹 **Ansible Automation**
 * 🔹 **Jenkins Pipeline**
--->
+
 ---
 
 # 📊 GitHub Stats
