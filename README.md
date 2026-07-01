@@ -164,91 +164,30 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 | 03 - ✈️ Airline Analytics           | Aviation        | Flight delays, passenger traffic, revenue, and operational performance                 | [View Project](https://github.com/yourusername/Airline-Analytics)            |
 | 04 - 🎬 Movie Industry Analytics    | Entertainment   | Movie revenue, ratings, genres, and production company performance                     | [View Project](https://github.com/yourusername/Movie-Analytics)              |
 | 05 - 📦 Supply Chain Analytics      | Logistics       | Inventory management, supplier performance, shipping, and warehouse analytics          | [View Project](https://github.com/yourusername/Supply-Chain-Analytics)       |
-| 🏗 Data Science                     | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
+| 📈 Data Science                     | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
 | 01 - 💳 Banking Analytics           | Finance         | Customer accounts, loans, transactions, and financial performance dashboard            | [View Project](https://github.com/yourusername/Banking-Analytics)            |
 | 02 - 🏠 Real Estate Analytics       | Real Estate     | Property prices, sales trends, locations, and investment insights                      | [View Project](https://github.com/yourusername/Real-Estate-Analytics)        |
 | 03 - ✈️ Airline Analytics           | Aviation        | Flight delays, passenger traffic, revenue, and operational performance                 | [View Project](https://github.com/yourusername/Airline-Analytics)            |
 | 04 - 🎬 Movie Industry Analytics    | Entertainment   | Movie revenue, ratings, genres, and production company performance                     | [View Project](https://github.com/yourusername/Movie-Analytics)              |
 | 05 - 📦 Supply Chain Analytics      | Logistics       | Inventory management, supplier performance, shipping, and warehouse analytics          | [View Project](https://github.com/yourusername/Supply-Chain-Analytics)       |
-| 🏗 Java Spring Boot                 | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
+| ☕ Java & Spring Boot                | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
 | 01 - 💳 Banking Analytics           | Finance         | Customer accounts, loans, transactions, and financial performance dashboard            | [View Project](https://github.com/yourusername/Banking-Analytics)            |
 | 02 - 🏠 Real Estate Analytics       | Real Estate     | Property prices, sales trends, locations, and investment insights                      | [View Project](https://github.com/yourusername/Real-Estate-Analytics)        |
 | 03 - ✈️ Airline Analytics           | Aviation        | Flight delays, passenger traffic, revenue, and operational performance                 | [View Project](https://github.com/yourusername/Airline-Analytics)            |
 | 04 - 🎬 Movie Industry Analytics    | Entertainment   | Movie revenue, ratings, genres, and production company performance                     | [View Project](https://github.com/yourusername/Movie-Analytics)              |
 | 05 - 📦 Supply Chain Analytics      | Logistics       | Inventory management, supplier performance, shipping, and warehouse analytics          | [View Project](https://github.com/yourusername/Supply-Chain-Analytics)       |
-| 🏗 DevOps                  | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
+| ⚙️ DevOps                           | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
 | 01 - 💳 Banking Analytics           | Finance         | Customer accounts, loans, transactions, and financial performance dashboard            | [View Project](https://github.com/yourusername/Banking-Analytics)            |
 | 02 - 🏠 Real Estate Analytics       | Real Estate     | Property prices, sales trends, locations, and investment insights                      | [View Project](https://github.com/yourusername/Real-Estate-Analytics)        |
 | 03 - ✈️ Airline Analytics           | Aviation        | Flight delays, passenger traffic, revenue, and operational performance                 | [View Project](https://github.com/yourusername/Airline-Analytics)            |
 | 04 - 🎬 Movie Industry Analytics    | Entertainment   | Movie revenue, ratings, genres, and production company performance                     | [View Project](https://github.com/yourusername/Movie-Analytics)              |
 | 05 - 📦 Supply Chain Analytics      | Logistics       | Inventory management, supplier performance, shipping, and warehouse analytics          | [View Project](https://github.com/yourusername/Supply-Chain-Analytics)       |
-| 🏗 Python                           | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
+| 🐍 Python                           | ----------------|   -------------------------------------------------------------------------------------| [View Project](https://github.com/yourusername/Automotive-Sales-Analytics)   ||
 | 01 - 💳 Banking Analytics           | Finance         | Customer accounts, loans, transactions, and financial performance dashboard            | [View Project](https://github.com/yourusername/Banking-Analytics)            |
 | 02 - 🏠 Real Estate Analytics       | Real Estate     | Property prices, sales trends, locations, and investment insights                      | [View Project](https://github.com/yourusername/Real-Estate-Analytics)        |
 | 03 - ✈️ Airline Analytics           | Aviation        | Flight delays, passenger traffic, revenue, and operational performance                 | [View Project](https://github.com/yourusername/Airline-Analytics)            |
 | 04 - 🎬 Movie Industry Analytics    | Entertainment   | Movie revenue, ratings, genres, and production company performance                     | [View Project](https://github.com/yourusername/Movie-Analytics)              |
 | 05 - 📦 Supply Chain Analytics      | Logistics       | Inventory management, supplier performance, shipping, and warehouse analytics          | [View Project](https://github.com/yourusername/Supply-Chain-Analytics)       |
-
-
----
-# 🚀 Featured Projects
-
-## 📊 Data Analysis
-
-* 🔹 **E-Commerce Analytic**
-* 🔹 
-* 🔹 
-* 🔹 
-* 🔹 
-
----
-
-## 🏗 Data Engineering
-
-* 🔹 **SQL Data Warehouse**
-* 🔹 **Apache Spark ETL Pipeline**
-* 🔹 **Kafka Streaming Pipeline**
-* 🔹 **Batch Processing Framework**
-* 🔹 **Data Lake Project**
-
----
-
-## 📈 Business Intelligence
-
-* 🔹 **Power BI Sales Dashboard**
-* 🔹 **HR Analytics Dashboard**
-* 🔹 **Executive KPI Dashboard**
-* 🔹 **Tableau Business Dashboard**
-
----
-
-## 🐍 Python
-
-* 🔹 **Automation Scripts**
-* 🔹 
-* 🔹 ** Django**
-* 🔹 **Web Scraper**
-* 🔹 **Data Processing Toolkit**
-
----
-
-## ☕ Java & Spring Boot
-
-* 🔹 **Spring Boot REST API**
-* 🔹 **Employee Management System**
-* 🔹 **Library Management System**
-* 🔹 **Microservices Project**
-
----
-
-## ⚙️ DevOps
-
-* 🔹 **Dockerized Applications**
-* 🔹 **Kubernetes Deployment**
-* 🔹 **CI/CD Pipeline**
-* 🔹 **Terraform Infrastructure**
-* 🔹 **Ansible Automation**
-* 🔹 **Jenkins Pipeline**
 
 ---
 
