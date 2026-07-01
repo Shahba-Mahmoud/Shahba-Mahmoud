@@ -41,11 +41,11 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
 
 | Category            | Technologies                                                                                                                  |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Mathematics         |  Linear Algebra , Calculus , Statistics and Probability , Applied Mathematics , Topology , Optimization ,Discrete Mathematics |
+| Mathematics         |  Linear Algebra , Calculus , Statistics and Probability , Applied Mathematics ,Optimization ,Discrete Mathematics |
 | 💻 Languages        |  Python, Java, Scala, Bash ,                                                                                                  | 
 | 📊 Data Analysis    |  SQL , Pandas , NumPy , Matplotlib , Seaborn , Jupyter otebook , Power BI , Tableau                                           |
 | 🏗 Data Engineering |  SQL, Scala , Spark, Kafka , Databricks , Data Modeling , Data Pipelines                                                      |
-| ☕ Backend           |  Spring Boot, Hibernate, REST APIs , Spring Data , Spring security , Spring Microservices , Spring AI , Spring Cloud          |
+| ☕ Backend           |  Spring Boot, Hibernate, REST APIs , Spring Data , Spring security ,Microservices , Spring AI , Spring Cloud                  |
 | ⚙️ DevOps           |  Linux , Git , Docker, Kubernetes, Jenkins, Ansible , Terraform , Grafan ,  AWS  , Azure                                      |
 |   Databases         |  SQL ( Postgres , SQL Server ) - NoSQL ( MongoDB ) - Caching ( Redis )
 
