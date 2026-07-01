@@ -1,12 +1,13 @@
-# Shaba Mahmoud 
-# <h1 align="center">Hi 👋, I'm Shahba Mahmoud </h1>
+# 👨‍💻 Shahba Mahmoud
+
+<h1 align="center">Hi 👋, I'm Shahba Mahmoud</h1>
 
 <h3 align="center">
 Mathematician | Data Engineer | Data Analyst | Python Developer | Java Developer | DevOps Engineer
 </h3>
 
 <p align="center">
-Passionate about Mathematics, Data Engineering, Software Development, and Cloud Technologies.
+Passionate about Mathematics, Data Engineering, Software Development, and Cloud Technologies.  
 Building scalable data platforms, distributed systems, and modern DevOps solutions.
 </p>
 
@@ -14,15 +15,16 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
 
 ## 👨‍💻 About Me
 
-* 🎓 **Mathematician** with strong analytical and problem-solving skills.
-* 📊 Passionate about **Data Analysis**, **Data Engineering**, and **Big Data**.
-* 🐍 Python Developer specializing in Data Science and Automation.
-* ☕ Java & Spring Boot Developer.
-* ☁️ DevOps Engineer focused on Contenerization , automation, cloud-native applications, and CI/CD.
-* 📚 Always learning modern technologies and software engineering best practices.
+- 🎓 **Mathematician** with strong analytical and problem-solving skills  
+- 📊 Passionate about **Data Analysis**, **Data Engineering**, and **Big Data**  
+- 🐍 Python Developer specializing in Data Science and Automation  
+- ☕ Java & Spring Boot Developer  
+- ☁️ DevOps Engineer focused on **containerization**, automation, cloud-native systems, and CI/CD  
+- 📚 Always learning modern software engineering and scalable system design  
 
 ---
-# 👨‍💻 GitHub Profile
+
+## 📊 GitHub Profile
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahba-Mahmoud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
@@ -37,18 +39,42 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahba-Mahmoud&theme=github-dark&hide_border=true"/>
 </p>
 
-## 🛠️ Skills Overview
+---
 
-| Category            | Technologies                                                                                                                  |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Mathematics         |  Linear Algebra , Calculus , Statistics and Probability , Applied Mathematics ,Optimization ,Discrete Mathematics |
-| 💻 Languages        |  Python, Java, Scala, Bash ,                                                                                                  | 
-| 📊 Data Analysis    |  SQL , Pandas , NumPy , Matplotlib , Seaborn , Jupyter otebook , Power BI , Tableau                                           |
-| 🏗 Data Engineering |  SQL, Scala , Spark, Kafka , Databricks , Data Modeling , Data Pipelines                                                      |
-| ☕ Backend           |  Spring Boot, Hibernate, REST APIs , Spring Data , Spring security ,Microservices , Spring AI , Spring Cloud                  |
-| ⚙️ DevOps           |  Linux , Git , Docker, Kubernetes, Jenkins, Ansible , Terraform , Grafan ,  AWS  , Azure                                      |
-|   Databases         |  SQL ( Postgres , SQL Server ) - NoSQL ( MongoDB ) - Caching ( Redis )
+# 🛠️ Skills Overview
 
+## 📐 Mathematics
+Linear Algebra • Calculus • Statistics & Probability • Optimization • Discrete Mathematics • Applied Mathematics  
+
+---
+
+## 💻 Programming Languages
+Python • Java • Scala • Bash  
+
+---
+
+## 📊 Data Analysis
+SQL • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook • Power BI • Tableau  
+
+---
+
+## 🏗️ Data Engineering
+SQL • Scala • Spark • Kafka • Databricks • Data Modeling • Data Pipelines  
+
+---
+
+## ☕ Backend Development
+Spring Boot • Spring Data • Spring Security • Spring Cloud • Spring AI • Hibernate • REST APIs • Microservices  
+
+---
+
+## ⚙️ DevOps
+Linux • Git • Docker • Kubernetes • Jenkins • Ansible • Terraform • Grafana • AWS • Azure • CI/CD  
+
+---
+
+## 🗄️ Databases
+PostgreSQL • SQL Server • MongoDB • Redis  
 
 ---
 
@@ -126,17 +152,13 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
 | 04 - 🌐 REST API Client | APIs | Consume and analyze data from REST APIs | [View Project](https://github.com/yourusername/REST-API-Projects) |
 | 05 - 📊 Pandas Analytics | Data Analysis | Data cleaning, transformation, and exploratory analysis | [View Project](https://github.com/yourusername/Pandas-Analytics) |
 
-
 ---
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [mahmoud.shahba.se@gmail.com](mailto:mahmoud.shahba.se@gmail.com)
-- 💼 **LinkedIn:** [LinkedIN](https://www.linkedin.com/in/mahmoud-shahba-083a16385/)
-- 🐙 **GitHub:** [https://github.com/](https://github.com/Shahba-Mahmoud)
-
-
-</p>
+- 📧 Email: **mahmoud.shahba.se@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/mahmoud-shahba-083a16385/
+- 🐙 GitHub: https://github.com/Shahba-Mahmoud
 
 ---
 
@@ -146,10 +168,8 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
 
 ---
 
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my work, don't forget to ⭐ my repositories.**
-
+If you like my work, don't forget to ⭐ my repositories.
 </p>
