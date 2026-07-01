@@ -22,129 +22,36 @@ Building scalable data platforms, distributed systems, and modern DevOps solutio
 * 📚 Always learning modern technologies and software engineering best practices.
 
 ---
+# 👨‍💻 GitHub Profile
 
-# 🛠 Tech Stack
-
-## 📐 Mathematics
-
-<p>
-Strong foundation in:
-Linear Algebra • Calculus • Statistics • Probability • Optimization • Discrete Mathematics • Applied Mathematics 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahba-Mahmoud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahba-Mahmoud&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 📊 Data Science
+## 📈 Contribution Graph
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahba-Mahmoud&theme=github-dark&hide_border=true"/>
 </p>
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Statistical Analysis
-* Data Cleaning
-* Feature Engineering
+## 🛠️ Skills Overview
+
+| Category            | Technologies                                                                                                                  |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Mathematics         |  Linear Algebra , Calculus , Statistics and Probability , Applied Mathematics , Topology , Optimization ,Discrete Mathematics |
+| 💻 Languages        |  Python, Java, Scala, Bash ,                                                                                                  | 
+| 📊 Data Analysis    |  SQL , Pandas , NumPy , Matplotlib , Seaborn , Jupyter otebook , Power BI , Tableau                                           |
+| 🏗 Data Engineering |  SQL, Scala , Spark, Kafka , Databricks , Data Modeling , Data Pipelines                                                      |
+| ☕ Backend           |  Spring Boot, Hibernate, REST APIs , Spring Data , Spring security , Spring Microservices , Spring AI , Spring Cloud          |
+| ⚙️ DevOps           |  Linux , Git , Docker, Kubernetes, Jenkins, Ansible , Terraform , Grafan ,  AWS  , Azure                                      |
+|   Databases         |  SQL ( Postgres , SQL Server ) - NoSQL ( MongoDB ) - Caching ( Redis )
+
 
 ---
 
-## 🏗 Data Engineering
-
-* SQL
-* ETL Pipelines
-* Data Warehousing
-* Apache Spark
-* Scala
-* Apache Kafka
-* Data Modeling
-* Data Pipelines
-* Batch Processing
-
----
-
-<p>
-
-<h2 align="left">🗄️ Database Expertise</h2>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="50"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35"/>
-</p>
-
-<p align="left">
-<b>PostgreSQL</b> • Advanced SQL, indexing, performance tuning <br/>
-<b>SQL Server</b> • ETL, stored procedures, enterprise data systems <br/>
-<b>MongoDB</b> • NoSQL document modeling, scalable architectures <br/>
-<b>Redis</b> • Caching, session management, high-speed data access
-</p>
-
----
-
-## 📈 Business Intelligence
-
-* Power BI
-* Tableau
-* Dashboard Design
-* Business Analytics
-* Data Visualization
-
----
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,scala,bash" height="50"/>
-
-</p>
-
-* Python
-* Java
-* Scala
-* Bash
-
----
-
-## ☕ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring" height="50"/>
-
-</p>
-
-* Java
-* Spring Boot
-* REST APIs
-
----
-
-## ⚙️ DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,jenkins,ansible,terraform" height="50"/>
-
-</p>
-
-* Linux
-* Git
-* Docker
-* Kubernetes
-* Jenkins
-* Terraform
-* Ansible
-* CI/CD
-* Infrastructure as Code (IaC)
-
----
 # 📂 Featured Projects
 
 ---
@@ -219,21 +126,6 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 | 04 - 🌐 REST API Client | APIs | Consume and analyze data from REST APIs | [View Project](https://github.com/yourusername/REST-API-Projects) |
 | 05 - 📊 Pandas Analytics | Data Analysis | Data cleaning, transformation, and exploratory analysis | [View Project](https://github.com/yourusername/Pandas-Analytics) |
 
----
-# 👨‍💻 GitHub Profile
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahba-Mahmoud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahba-Mahmoud&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahba-Mahmoud&theme=github-dark&hide_border=true"/>
-</p>
 
 ---
 
