@@ -187,9 +187,7 @@ Linear Algebra • Calculus • Statistics • Probability • Optimization • 
 
 ---
 
-## ☕
-
-Java & Spring Boot
+## ☕ Java & Spring Boot
 
 * 🔹 **Spring Boot REST API**
 * 🔹 **Employee Management System**
