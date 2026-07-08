@@ -84,13 +84,18 @@ PostgreSQL • SQL Server • MongoDB • Redis
 
 ## 📊 Data Analysis
 
-| Project | Industry | Description | Repository |
-|---------|----------|-------------|------------|
-| 01 - 🚗 Automotive Sales Analytics | Automotive | Sales, inventory, dealership, and customer performance analysis | [View Project](https://github.com/yourusername/Automotive-Sales-Analytics) |
-| 02 - 🛒 E-Commerce Sales Analytics | Retail | Sales performance, customer segmentation, product profitability, and regional analysis | [View Project](https://github.com/yourusername/Ecommerce-Sales-Analytics) |
-| 03 - 🏥 Healthcare Analytics | Healthcare | Healthcare spending, life expectancy, disease trends, and hospital resource analysis | [View Project](https://github.com/yourusername/Healthcare-Analytics) |
-| 04 - ⚽ Player Performance Analytics | Sports | Player statistics, team performance, and match analysis | [View Project](https://github.com/yourusername/Player-Performance-Analytics) |
-| 05 - 👨‍💼 HR Employee Analytics | Human Resources | Employee performance, attrition, salary, and workforce insights | [View Project](https://github.com/yourusername/HR-Analytics) |
+| Project                        | Industry        | Description                                                                            | Dashboard                                                                    |
+| ------------------------------ | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 🛒 E-Commerce Sales Analytics  | Retail          | Sales performance, customer segmentation, product profitability, and regional analysis | [View Project](https://github.com/Shahba-Mahmoud/E-Commerce-Sales-Analytics.git)    |
+| 🚗 Automotive Sales Analytics  | Automotive      | Sales, inventory, dealership, and customer performance dashboard                       | [View Project](https://github.com/Shahba-Mahmoud/E-Commerce-Sales-Analytics.git)   |
+| 🏥 Healthcare Analytics        | Healthcare      | Healthcare spending, life expectancy, disease trends, and hospital resource analysis   | [View Project](https://github.com/yourusername/Healthcare-Analytics)         |
+| ⚽ Player Performance Analytics | Sports          | Player statistics, team performance, match insights, and player comparison dashboard   | [View Project](https://github.com/yourusername/Player-Performance-Analytics) |
+| 👨‍💼 HR Employee Analytics    | Human Resources | Employee performance, attrition, salary, and workforce insights                        | [View Project](https://github.com/yourusername/HR-Analytics)                 |
+| 💳 Banking Analytics           | Finance         | Customer accounts, loans, transactions, and financial performance dashboard            | [View Project](https://github.com/yourusername/Banking-Analytics)            |
+| 🏠 Real Estate Analytics       | Real Estate     | Property prices, sales trends, locations, and investment insights                      | [View Project](https://github.com/yourusername/Real-Estate-Analytics)        |
+| ✈️ Airline Analytics           | Aviation        | Flight delays, passenger traffic, revenue, and operational performance                 | [View Project](https://github.com/yourusername/Airline-Analytics)            |
+| 🎬 Movie Industry Analytics    | Entertainment   | Movie revenue, ratings, genres, and production company performance                     | [View Project](https://github.com/yourusername/Movie-Analytics)              |
+| 📦 Supply Chain Analytics      | Logistics       | Inventory management, supplier performance, shipping, and warehouse analytics          | [View Project](https://github.com/yourusername/Supply-Chain-Analytics)       |
 
 ---
 
