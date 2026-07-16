@@ -106,7 +106,17 @@ PostgreSQL • SQL Server • MongoDB • Redis
 
 ---
 
-## ☕ Java & Spring Boot
+## 🛠️ MERN Stack Development
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.JS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+| Project | Industry | Description | Dashboard |
+| :--- | :--- | :--- | :--- |
+| 🛒 **E-Commerce Sales Analytics** | Retail | Tracks sales performance, customer segmentation, product profitability, and regional trends. | [View Project](https://github.com/Shahba-Mahmoud/E-Commerce-Sales-Analytics.git) |
+
+---
+
+## ☕ MERN ( MonoDB - Express - ReactJS - NodeJS )
 
 | Project                        | Industry        | Description                                                                            | Dashboard                                                                    |
 | ------------------------------ | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
