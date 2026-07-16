@@ -116,7 +116,7 @@ PostgreSQL • SQL Server • MongoDB • Redis
 
 ---
 
-## ☕ MERN ( MonoDB - Express - ReactJS - NodeJS )
+## ☕ Java - Spring Boot
 
 | Project                        | Industry        | Description                                                                            | Dashboard                                                                    |
 | ------------------------------ | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
