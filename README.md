@@ -144,7 +144,7 @@ PostgreSQL • SQL Server • MongoDB • Redis
 
 | Course                         | Details        | Description                                                                            | Dashboard                                                                    |
 | ------------------------------ | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 🛒 SQL - Full Course  | Full-Course          | Sales performance, customer segmentation, product profitability, and regional analysis | [View Project](https://github.com/Shahba-Mahmoud/E-Commerce-Sales-Analytics.git)    |
+| 🛒 SQL - Full Course  | Full-Course          | Sales performance, customer segmentation, product profitability, and regional analysis | [View Project](https://github.com/Shahba-Mahmoud/SQL_Full_Course)    |
 
 
 ---
