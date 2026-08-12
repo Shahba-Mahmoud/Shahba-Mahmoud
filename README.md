@@ -145,14 +145,14 @@ PostgreSQL • SQL Server • MongoDB • Redis
 
 | Course | Details | Description | Dashboard |
 | :--- | :--- | :--- | :--- |
-| **SQL** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/SQL_Full_Course) |
-| **PySpark** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
-| **Databricks** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
-| **Linear Algebra** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
-| **Calculus** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
-| **Probabilities** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
+| **SQL** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL...................................................... | [Start Learning](https://github.com/Shahba-Mahmoud/SQL_Full_Course) |
+| **PySpark** | Full-Course |  SQL full course with hands on labs ,  we will use PostgreSQL...................................................... | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
+| **Databricks** | Full-Course |  SQL full course with hands on labs ,  we will use PostgreSQL......................................................L | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
+| **Linear Algebra** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL...................................................... | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
+| **Calculus** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL...................................................... | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
+| **Probabilities** | Full-Course |  SQL full course with hands on labs ,  we will use PostgreSQL...................................................... | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
 | **Python** | Full-Course | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
-| **Math** | Kodrat | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
+| **Math** | Kodrat | SQL full course with hands on labs ,  we will use PostgreSQL...................................................... | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark) |
 ---
 
 ## 📫 Connect With Me
