@@ -146,6 +146,11 @@ PostgreSQL • SQL Server • MongoDB • Redis
 | ------------------------------ | --------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | SQL - Full Course  | Full-Course          | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/SQL_Full_Course)    |
 | PySpark - Full Course  | Full-Course          | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark)    |
+| Databricks - Full Course  | Full-Course          | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark)    |
+| Linear Algebra - Full Course  | Full-Course          | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark)    |
+| Calculus - Full Course  | Full-Course          | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark)    |
+| Probabilities - Full Course  | Full-Course          | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark)    |
+| Python - Full Course  | Full-Course          | SQL full course with hands on labs ,  we will use PostgreSQL | [Start Learning](https://github.com/Shahba-Mahmoud/PySpark)    |
 
 
 ---
