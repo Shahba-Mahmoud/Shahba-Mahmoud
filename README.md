@@ -112,7 +112,7 @@ PostgreSQL • SQL Server • MongoDB • Redis
 
 | Project | Industry | Description | Dashboard |
 | :--- | :--- | :--- | :--- |
-| 🛒 **LMS** | LMS Platform | Courses, Instructors, Learners, Dashboards, Invoices, scripts .............................................etc | [View Project](https://github.com/Shahba-Mahmoud/LMS) |
+| 🛒 **LMS** | LMS Platform | Courses, Instructors, Learners, Dashboards, Invoices, scripts , d mkdmckdmikdmmdmcidcidcidcidcdicetc | [View Project](https://github.com/Shahba-Mahmoud/LMS) |
 
 ---
 
