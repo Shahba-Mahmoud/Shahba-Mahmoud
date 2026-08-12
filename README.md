@@ -112,7 +112,7 @@ PostgreSQL • SQL Server • MongoDB • Redis
 
 | Project | Industry | Description | Dashboard |
 | :--- | :--- | :--- | :--- |
-| 🛒 **E-Commerce Sales Analytics** | Retail | Tracks sales performance, customer segmentation, product profitability, and regional trends. | [View Project](https://github.com/Shahba-Mahmoud/E-Commerce-Sales-Analytics.git) |
+| 🛒 **LMS** | LMS Platform | Courses, Instructors, Learners, Dashboards, Invoices, etc. | [View Project](https://github.com/Shahba-Mahmoud/LMS) |
 
 ---
 
